@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ricwork.
 - 👀 I’m interested in frontend development.
-- 🌱 I’m currently learning Ruby on Rails and Golang.
+- 🌱 I’m currently learning Rust and Golang.
 - 💞️ I’m looking to collaborate on startup projects.
 - 📫 Reach out to me for your work.
 
