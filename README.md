@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ricwork.
+- 👋 Hi, I’m @lionriera.
 - 👀 I’m interested in frontend development.
 - 🌱 I’m currently learning Rust and Golang.
 - 💞️ I’m looking to collaborate on startup projects.
