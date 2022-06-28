@@ -5,6 +5,6 @@
 - 📫 Reach out to me for your work.
 
 <!---
-ricwork/ricwork is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+lionriera/lionriera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
